@@ -1,0 +1,15 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/configs/bookmarks
+
+- Developer:
+    - Github:
+        - abbr: GH
+          href: https://github.com/networksuperman
+
+- Social:
+    - Site:
+        - abbr: DL
+          href: https://devopslife.ru/
+
+
